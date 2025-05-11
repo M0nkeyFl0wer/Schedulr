@@ -60,8 +60,10 @@ This isn’t a “smart planner” that hides your life in an AI black box. It�
 If Schedulr helps you stop doomscrolling and actually get things done:
 
 **ETH:** M0nkeyFl0wer.eth
-**Ko-fi:** [ko-fi.com/yourname]([https://ko-fi.com/yourname](https://ko-fi.com/ben_west)  
-**Bluesky:** `@yourhandle.bsky.social`
+
+**Ko-fi:** [https://ko-fi.com/ben-west](https://ko-fi.com/ben_west)  
+
+**Bluesky:** [bluesky Ben](https://bsky.app/profile/benwest.bsky.social)
 
 We're building tools that respect your time, your privacy, and your autonomy.
 
