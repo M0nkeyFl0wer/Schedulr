@@ -1,6 +1,6 @@
 # Schedulr
 
-**Schedulr** is your open-source, privacy-respecting planning assistant. It helps you actually make time for the stuff on your to-do list—without farming your data or making you subscribe to yet another productivity cult.
+**Schedulr** is your open-source, privacy-respecting planning assistant. It helps you actually make time for the stuff on your to-do list—without farming your data or making you subscribe to a new productivity cult.
 
 It’s built to run locally, be fully self-hosted, and work with tools you already use. No cloud lock-in, no weird logins, no spying.
 
