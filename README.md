@@ -1,8 +1,6 @@
-Schedulr
+## Schedulr
 
 > ⚠️ Early concept This is an idea for a self-hosted planning assistant, not a finished product. Feedback, questions, or collaboration ideas are welcome—open an issue or start a conversation.
-
-
 
 Schedulr is your open-source, privacy-respecting planning assistant. It helps you actually make time for the stuff on your to-do list—without farming your data or making you subscribe to a new productivity cult.
 
@@ -10,18 +8,23 @@ It’s built to run locally, be fully self-hosted, and work with tools you alrea
 
 Schedulr reads your tasks (from GitTasks, GitHub Issues, or Markdown), asks some smart questions, and helps you turn those into real, scheduled blocks on your calendar. It’s triage + planning + calendar automation—but under your control.
 
-
 ---
 
-What makes it different
+## What makes it different
 
-Open source: MIT licensed, inspect every line
+### Open source: 
 
-Private: Run it offline or on your own hardware
+MIT licensed, inspect every line
 
-Self-hosted: Deploy it to a server, Pi, or air-gapped laptop
+### Private: 
 
-Interoperable: Works with GitHub, Markdown, CalDAV, and more
+Run it offline or on your own hardware
+
+#### Self-hosted:
+
+Deploy it to a server, Pi, or air-gapped laptop
+
+### Interoperable: Works with GitHub, Markdown, CalDAV, and more
 
 
 This isn’t a “smart planner” that hides your life in an AI black box. It’s a tool that helps you think clearly, plan realistically, and ship more.
@@ -29,7 +32,7 @@ This isn’t a “smart planner” that hides your life in an AI black box. It�
 
 ---
 
-What it might do (MVP goals)
+## What it might do (MVP goals)
 
 Read tasks from GitTasks, GitHub Issues, or plain text
 
@@ -43,7 +46,7 @@ Nudge you with optional daily summaries or check-ins
 
 ---
 
-What it won’t do
+## What it won’t do
 
 Sell your data
 
@@ -57,7 +60,7 @@ Pretend your day has 38 hours in it
 
 ---
 
-Future ideas
+## Future ideas
 
 CLI and web-based “daily planner” flow
 
@@ -73,7 +76,7 @@ Local agent integration for smarter nudges (e.g. Glyph)
 
 ---
 
-Pair it with
+## Pair it with: 
 
 GitTasks for task syncing from GitHub and Markdown
 
@@ -83,7 +86,7 @@ Your favorite distraction blocker
 
 ---
 
-Support the project
+## Support the project
 
 If Schedulr helps you stop doomscrolling and actually get things done:
 
